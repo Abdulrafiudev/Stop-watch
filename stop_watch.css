@@ -55,8 +55,8 @@
 }
 @media (max-width: 700px){
   .timer_body{
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 0.625rem;
+    padding-right: .625rem;
   }
 }
 .start_button, .stop_button, .reset_button{
