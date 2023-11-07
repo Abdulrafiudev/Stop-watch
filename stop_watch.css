@@ -53,6 +53,12 @@
   border-radius: 50%;
   
 }
+@media (max-width: 700px){
+  .timer_body{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
 .start_button, .stop_button, .reset_button{
   background-color: black;
   color: white;
